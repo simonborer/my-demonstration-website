@@ -2,3 +2,13 @@
 	background: forestgreen;
 	padding: 1rem;
 }
+
+.athens {
+	background-image: url('images/athens.jpg');
+	padding: 6rem;
+    color: white;
+    font-size: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 50%;
+}
